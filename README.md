@@ -12,4 +12,4 @@ kalian script ini tidak menyinggung agama atau yg lain
 
 
 ## Tampilan
-https://github.com/Bayu12345677/primbon-v.1/blob/main/Screenshot_20210930-201637.png
+![polygon](https://github.com/Bayu12345677/primbon-v.1/blob/main/Screenshot_20210930-201637.png)
