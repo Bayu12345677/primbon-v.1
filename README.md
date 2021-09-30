@@ -31,3 +31,16 @@ kalian script ini tidak menyinggung agama atau yg lain
 [>] pkg install toilet
 [>] pkg install figlet
 [>] pkg install git
+[>] pkg install gh
+[>] gh repo clone Bayu12345677/primbon-v.1
+[>] cd primbon-v.1
+[>] bash primbon.sh
+```
+
+
+
+support saya ya sobs
+
+[youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+
+
