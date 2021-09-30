@@ -20,7 +20,7 @@ kalian script ini tidak menyinggung agama atau yg lain
 
 ## [cara install](https://github.com/Bayu12345677/primbon-v.1)
 
-```html
+```python3
 [>] pkg update
 [>] pkg upgrade
 [>] pkg install pip
