@@ -19,3 +19,15 @@ kalian script ini tidak menyinggung agama atau yg lain
 
 
 ## [cara install](https://github.com/Bayu12345677/primbon-v.1)
+
+```c++
+[>] pkg update
+[>] pkg upgrade
+[>] pkg install pip
+[>] pkg install curl
+[>] pkg install jq
+[>] pip install httpie
+[>] pkg install pv
+[>] pkg install toilet
+[>] pkg install figlet
+[>] pkg install git
